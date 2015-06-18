@@ -1,4 +1,5 @@
 <?php
+
 namespace SocialiteProviders\Buffer;
 
 use SocialiteProviders\Manager\SocialiteWasCalled;
